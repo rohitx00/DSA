@@ -11,3 +11,7 @@ This folder contains implementations of linear search algorithms in Java.
 - **LinearSearchString.java**: Implements linear search on a string to check if a specific character is present. It takes user input for a name and a character to search, converting both to lowercase for case-insensitive search.
 
 - **LinearSearchStringInRange.java**: Implements linear search on a string within a specified range to check if a specific character is present. It searches between indices 1 and 3 (inclusive) in the input string.
+
+- **MaxEleInArray.java**: Finds the maximum value in an integer array by iterating through all elements and comparing them.
+
+- **MinEleInArray.java**: Finds the minimum value in an integer array by iterating through all elements and comparing them.
