@@ -15,3 +15,7 @@ This folder contains implementations of linear search algorithms in Java.
 - **MaxEleInArray.java**: Finds the maximum value in an integer array by iterating through all elements and comparing them.
 
 - **MinEleInArray.java**: Finds the minimum value in an integer array by iterating through all elements and comparing them.
+
+- **EvenDigitCoutInArray.java**: Counts the number of elements in an integer array that have an even number of digits. It takes user input for array elements and uses a helper method to determine if a number has an even digit count.
+
+- **SearchIn2DArray.java**: Implements linear search on a 2D integer array to check if a target element is present. It iterates through all rows and columns to find the target value.
