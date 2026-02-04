@@ -1,8 +1,8 @@
-gender = input("Tell me the your gender: ")
-gender = gender.lower()
-if gender == "male":
+gender = input("Tell me your gender(M or F): ")
+
+if gender == 'm' or gender == 'M':
     print("Hello sir!!")
-elif gender == "female":
+elif gender == 'f' or gender == 'F':
     print("Hello mam!!")
 else:
-    print("Why are you gay??")
+    print("Unidentified Gender??")
